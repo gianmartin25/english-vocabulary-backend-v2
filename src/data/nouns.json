@@ -1,0 +1,38 @@
+[
+  {
+    "wordName": "cat",
+    "images": [
+      "https://media.4-paws.org/d/2/5/f/d25ff020556e4b5eae747c55576f3b50886c0b90/cut%20cat%20serhio%2002-1813x1811-720x719.jpg",
+      "https://t4.ftcdn.net/jpg/02/66/72/41/360_F_266724172_Iy8gdKgMa7XmrhYYxLCxyhx6J7070Pr8.jpg"
+    ],
+    "plural": "cats"
+  },
+  {
+    "wordName": "child",
+    "images": [
+      "https://www.ymcaottawa.ca/sites/default/files/styles/hero_banner_mobile/public/2024-12/licensed-child-care-banner-2024-12-10.jpg.webp?itok=UeevkUVM"
+    ],
+    "plural": "children"
+  },
+  {
+    "wordName": "box",
+    "images": [
+      "https://www.karton.eu/media/image/product/154/lg/126x86x85-mm-automatic-box.jpg.webp"
+    ],
+    "plural": "boxes"
+  },
+  {
+    "wordName": "man",
+    "images": [
+      "https://img.freepik.com/foto-gratis/joven-barbudo-camisa-rayas_273609-5677.jpg?semt=ais_hybrid&w=740"
+    ],
+    "plural": "men"
+  },
+  {
+    "wordName": "city",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR13yeF2JgXOFr433EylkdtuK6Gh3ZBZHkNGQ&s"
+    ],
+    "plural": "cities"
+  }
+]

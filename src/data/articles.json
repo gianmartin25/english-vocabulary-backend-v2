@@ -1,0 +1,26 @@
+[
+  {
+    "wordName": "the",
+    "images": [
+      "https://example.com/images/the1.jpg",
+      "https://example.com/images/the2.jpg"
+    ],
+    "type": "definite"
+  },
+  {
+    "wordName": "a",
+    "images": [
+      "https://example.com/images/a1.jpg",
+      "https://example.com/images/a2.jpg"
+    ],
+    "type": "indefinite"
+  },
+  {
+    "wordName": "an",
+    "images": [
+      "https://example.com/images/an1.jpg",
+      "https://example.com/images/an2.jpg"
+    ],
+    "type": "indefinite"
+  }
+]

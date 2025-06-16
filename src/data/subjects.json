@@ -1,0 +1,50 @@
+[
+  {
+    "wordName": "i",
+    "images": [
+      "https://portalacademico.cch.unam.mx/sites/default/files/iu1oa2p4-01.jpg"
+    ],
+    "person": "first",
+    "number": "singular"
+  },
+  {
+    "wordName": "you",
+    "images": [
+      "https://portalacademico.cch.unam.mx/sites/default/files/iu1oa2p4-02.jpg"
+    ],
+    "person": "second",
+    "number": "singular"
+  },
+  {
+    "wordName": "he",
+    "images": [
+      "https://portalacademico.cch.unam.mx/sites/default/files/iu1oa2p4-03.jpg"
+    ],
+    "person": "third",
+    "number": "singular"
+  },
+  {
+    "wordName": "she",
+    "images": [
+      "https://portalacademico.cch.unam.mx/sites/default/files/iu1oa2p4-04.jpg"
+    ],
+    "person": "third",
+    "number": "singular"
+  },
+  {
+    "wordName": "we",
+    "images": [
+      "https://portalacademico.cch.unam.mx/sites/default/files/iu1oa2p4-06.jpg"
+    ],
+    "person": "first",
+    "number": "plural"
+  },
+  {
+    "wordName": "they",
+    "images": [
+      "https://portalacademico.cch.unam.mx/sites/default/files/iu1oa2p4-08.jpg"
+    ],
+    "person": "third",
+    "number": "plural"
+  }
+]

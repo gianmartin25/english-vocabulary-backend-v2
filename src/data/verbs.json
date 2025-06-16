@@ -1,0 +1,30 @@
+[
+    {
+        "wordName": "eat",
+        "images":[
+            "https://www.inglesmundial.com/palabras/eat.jpg",
+            "https://thumbs.dreamstime.com/b/ni%C3%B1a-linda-feliz-come-comida-saludable-166126023.jpg"
+        ],
+        "typeVerb": "regular"
+    },
+    {
+        "wordName": "buy",
+        "images":["https://i.pinimg.com/736x/b7/13/26/b7132635acbd74705fe7cdf4aef1e704.jpg"],
+        "typeVerb": "irregular"
+    },
+    {
+        "wordName": "drink",
+        "images":[
+            "https://cdn.langeek.co/photo/48573/original/drink?type=jpeg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdB9buDQioFf52MwoLr4SEiKptp1P2SiAyg&s"
+        ],
+        "typeVerb": "irregular"
+    },{
+        "wordName": "play",
+        "images":[
+            "https://media.baamboozle.com/uploads/images/46275/1648036796_58408.png",
+        "https://media.baamboozle.com/uploads/images/59735/1601262583_172518"
+        ],
+        "typeVerb": "regular"
+    }
+]

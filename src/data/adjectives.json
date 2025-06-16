@@ -1,0 +1,29 @@
+[
+  {
+    "wordName": "fast",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9vaYY49tsY0JEt850TxlgePbk3sXygYneg&s",
+      "https://www.shutterstock.com/image-vector/man-fast-run-icon-rush-260nw-1542414620.jpg"
+    ],
+    "comparative": "faster",
+    "superlative": "fastest"
+  },
+  {
+    "wordName": "happy",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnI23HQOR9fxNPFtY7PDhnVRMBdnae1VUfjA&s",
+      "https://as2.ftcdn.net/jpg/01/24/41/03/1000_F_124410367_M538eQuhp4ItuXE2RVt5m75kODW2nTZz.jpg"
+    ],
+    "comparative": "happier",
+    "superlative": "happiest"
+  },
+  {
+    "wordName": "strong",
+    "images": [
+      "https://static.vecteezy.com/system/resources/previews/031/713/720/non_2x/muscle-arms-strong-biceps-isolated-on-white-background-vector.jpg",
+      "https://static.vecteezy.com/system/resources/thumbnails/035/608/371/small/logo-strong-sport-gym-fitness-label-illustration-vector.jpg"
+    ],
+    "comparative": "stronger",
+    "superlative": "strongest"
+  }
+]
