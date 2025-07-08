@@ -127,3 +127,4 @@ async function bootstrap(): Promise<void> {
 bootstrap().catch((err) => {
   console.error('Error en bootstrap:', err);
 });
+

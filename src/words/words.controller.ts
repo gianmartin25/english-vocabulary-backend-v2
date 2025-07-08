@@ -6,10 +6,12 @@ import {
   Patch,
   Param,
   Delete,
+  Query,
 } from '@nestjs/common';
 import { WordsService } from './words.service';
 import { CreateWordDto } from './dto/create-word.dto';
 import { UpdateWordDto } from './dto/update-word.dto';
+import { SearchResponseDto } from './dto/search-response.dto';
 
 @Controller('words')
 export class WordsController {
@@ -18,6 +20,14 @@ export class WordsController {
   @Post()
   create(@Body() createWordDto: CreateWordDto) {
     return this.wordsService.create(createWordDto);
+  }
+
+  @Get('search')
+  async searchWords(@Query('q') query: string): Promise<SearchResponseDto[]> {
+    if (!query || query.trim().length === 0) {
+      return [];
+    }
+    return this.wordsService.searchWords(query.trim());
   }
 
   @Get()
